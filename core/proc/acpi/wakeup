@@ -1,0 +1,7 @@
+Device	S-state	  Status   Sysfs node
+PEX4	  S4	*disabled  pci:0000:00:1c.4
+BR07	  S4	*disabled  pci:0000:00:03.0
+BR03	  S4	*disabled  pci:0000:00:02.0
+BR17	  S4	*disabled  pci:0000:80:03.0
+BR13	  S4	*disabled  pci:0000:80:02.0
+BR11	  S4	*disabled  pci:0000:80:01.0

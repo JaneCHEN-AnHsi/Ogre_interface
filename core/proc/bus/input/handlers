@@ -1,0 +1,5 @@
+N: Number=0 Name=kbd
+N: Number=1 Name=sysrq (filter)
+N: Number=2 Name=leds
+N: Number=3 Name=mousedev Minor=32
+N: Number=4 Name=evdev Minor=64

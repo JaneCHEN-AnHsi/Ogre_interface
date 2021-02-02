@@ -1,0 +1,10 @@
+Model: 		 Tesla K80
+IRQ:   		 195
+GPU UUID: 	 GPU-d4a0babc-b43e-b2b6-469c-4093e4d3d20d
+Video BIOS: 	 80.21.1f.00.06
+Bus Type: 	 PCIe
+DMA Size: 	 40 bits
+DMA Mask: 	 0xffffffffff
+Bus Location: 	 0000:8b:00.0
+Device Minor: 	 1
+Blacklisted:	 No

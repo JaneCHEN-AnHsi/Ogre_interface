@@ -1,0 +1,12 @@
+interrupts_enabled:    0
+short_timeouts:        18
+long_timeouts:         3
+idles:                 30
+interrupts:            0
+attentions:            0
+flag_fetches:          0
+hosed_count:           0
+complete_transactions: 29
+events:                0
+watchdog_pretimeouts:  0
+incoming_messages:     0

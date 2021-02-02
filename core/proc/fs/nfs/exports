@@ -1,0 +1,4 @@
+# Version 1.1
+# Path Client(Flags) # IPs
+/home	*(rw,no_root_squash,sync,wdelay,no_subtree_check,fsid=10,uuid=20ed9cd1:12874082:a65efa6d:842b1709,sec=1)
+/opt/ohpc/pub	*(ro,root_squash,sync,wdelay,no_subtree_check,fsid=11,uuid=a9b36192:4fdc432d:93317301:64241473,sec=1)

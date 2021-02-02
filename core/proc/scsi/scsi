@@ -1,0 +1,7 @@
+Attached devices:
+Host: scsi0 Channel: 00 Id: 00 Lun: 00
+  Vendor: JetStor  Model: JETSTOR1-VOLUME0 Rev: R001
+  Type:   Direct-Access                    ANSI  SCSI revision: 05
+Host: scsi3 Channel: 00 Id: 00 Lun: 00
+  Vendor: ATA      Model: VK0120GFDKE      Rev: HPG0
+  Type:   Direct-Access                    ANSI  SCSI revision: 05

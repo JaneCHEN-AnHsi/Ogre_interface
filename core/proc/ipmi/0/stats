@@ -1,0 +1,28 @@
+sent_invalid_commands:       0
+sent_local_commands:         26
+handled_local_responses:     48
+unhandled_local_responses:   1
+sent_ipmb_commands:          0
+sent_ipmb_command_errs:      0
+retransmitted_ipmb_commands: 0
+timed_out_ipmb_commands:     0
+timed_out_ipmb_broadcasts:   0
+sent_ipmb_responses:         0
+handled_ipmb_responses:      0
+invalid_ipmb_responses:      0
+unhandled_ipmb_responses:    0
+sent_lan_commands:           0
+sent_lan_command_errs:       0
+retransmitted_lan_commands:  0
+timed_out_lan_commands:      0
+sent_lan_responses:          0
+handled_lan_responses:       0
+invalid_lan_responses:       0
+unhandled_lan_responses:     0
+handled_commands:            0
+invalid_commands:            0
+unhandled_commands:          0
+invalid_events:              0
+events:                      0
+failed rexmit LAN msgs:      0
+failed rexmit IPMB msgs:     0
